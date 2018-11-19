@@ -1,1 +1,11 @@
 # Intro-to-AI
+- A1 is about sovling 
+- 1.TSP breadth-First Search, Depth-First Search, MST heuristic function, A*
+- 2.sudoku in 3 ways
+- Version A : Standard backtracking search
+- Version B : Standard backtracking search + forward checking
+- Version C : Standard backtracking search + forward checking + heuristics
+- (minimum-remaining-values heuristic, degree heuristic and leastconstraining-value
+- heuristic). 
+- A2 is about hill climbing, hill climbing with sideway moves/tabu list, hill climbing with random restarts and simulated annealing.
+- A3 is about Bayes network
