@@ -4,9 +4,9 @@
     (1) Search on the Missionaries and Cannibals Problem
     (2) Solve the traveling salesperson problem using TSP breadth-First Search, Depth-First Search, MST heuristic function, A* algorithm.
     (3) CSP and backtracking search on Sudoku
-    Version A : Standard backtracking search
-    Version B : Standard backtracking search + forward checking
-    Version C : Standard backtracking search + forward checking + heuristics (minimum-remaining-values heuristic, degree heuristic and leastconstraining-value heuristic)
+        Version A : Standard backtracking search
+        Version B : Standard backtracking search + forward checking
+        Version C : Standard backtracking search + forward checking + heuristics (minimum-remaining-values heuristic, degree heuristic and leastconstraining-value heuristic)
 
 # A2 
 
